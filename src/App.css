@@ -1,0 +1,39 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+  font-family: Poppins, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.logo-container{
+  width: 100%;
+  height: 50px;
+  margin: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  height: 40px;
+}
+
+.calc-container{
+  width: 400px;
+  height: 600px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #7eb9fd;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 5px solid white;
+}
+
+.queue{
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
